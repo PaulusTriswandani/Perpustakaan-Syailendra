@@ -11,7 +11,7 @@ Selain itu Perpustakaan-Syailendra jg menyasar org2 yg mempunyai komputer dan me
 Yg paling terakhir adalah harga. Untuk mendapatkan buku elektronik dari Perpustakaan-Syailendra hanya seharga Rp 10.000,- per buku. Mau buku tebal atau tipis harganya sama. Bahkan harga cemilan di mall lebih mahal dari harga satu buku elektronik di Perpustakaan-Syailendra. Tapi perlu diingat, pembuat buku mencari makan dari hasil membuat buku. Kalau punya rejeki lebih belilah bukunya di tempat2 yg bersangkutan. Perpustakaan-Syailendra tdk berniat untuk memarakkan pembajakan, tapi kadang2 kita ingin mengetahui apakah isi dari buku yg bersangkutan itu kita butuhkan atau tidak. Contohnya buku2 dari luar negeri yg tebal2. Jangan2 setelah kita beli bukunya, itu hanya menjadi pajangan karena tidak pernah dibaca. Singkatnya kalau punya rejeki, tidak ada salahnya berbagi dengan yg berhak.
 
 ## Pemesanan Buku
-Karena kendala proyek yg baru diinisiasi, maka pemesanan buku akan melalui WA di [+6282130857959](https://wa.me/+6282130857959?text=Pesan%20Buku%20Asal%20Github). Untuk ke depannya semoga bisa diotomatisasi dan tentu saja kode sumbernya akan tersedia pula.
+Karena kendala proyek yg baru diinisiasi, maka pemesanan buku akan melalui WA di [+6282130857959](https://wa.me/+6282130857959?text=Pesan Buku Asal Github). Untuk ke depannya semoga bisa diotomatisasi dan tentu saja kode sumbernya akan tersedia pula.
 
 ## Run
 Untuk menjalankan Perpustakaan-Syailendra pada dasarnya hanya membutuhkan python. Disarankan python3 karena python2 sudah berakhir masa support-nya
