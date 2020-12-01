@@ -6,13 +6,13 @@ gi.require_version("Gtk", "3.0")
 from gi.repository import Gtk
 
 books_img_list = []
-for file in os.listdir("../assets"):
+for file in os.listdir("assets"):
     if file.endswith(".jpg"):
-        books_img_list.append(os.path.join("../assets", file))
+        books_img_list.append(os.path.join("assets", file))
 show_book = 0
 
 builder = Gtk.Builder()
-builder.add_from_file("ui/main.glade")
+builder.add_from_file("src/ui/main.glade")
 
 def update_books_imgs():
 	books_length = len(books_img_list)
