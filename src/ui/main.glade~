@@ -42,7 +42,7 @@
           <object class="GtkGrid" id="mainGrid">
             <property name="visible">True</property>
             <property name="can_focus">False</property>
-            <property name="column_homogeneous">True</property>
+            <property name="column_homogeneous">False</property>
             <child>
               <object class="GtkImage" id="image1">
                 <property name="visible">True</property>
@@ -136,8 +136,8 @@
         </child>
         <child>
           <object class="GtkTextView" id="textViewExplanation">
-            <property name="width_request">800</property>
-            <property name="height_request">600</property>
+            <property name="width_request">400</property>
+            <property name="height_request">300</property>
             <property name="visible">True</property>
             <property name="can_focus">True</property>
             <property name="hscroll_policy">natural</property>
@@ -170,7 +170,8 @@
           <object class="GtkLabel" id="labelName">
             <property name="visible">True</property>
             <property name="can_focus">False</property>
-            <property name="label" translatable="yes">by @lin_one_pow</property>
+            <property name="label" translatable="yes">by &lt;a href="https://wa.me/+6282130857959?text=Pesan%20Buku%20Asal%20Aplikasi"&gt;@lin_one_pow&lt;/a&gt;</property>
+            <property name="use_markup">True</property>
           </object>
           <packing>
             <property name="expand">False</property>
